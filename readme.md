@@ -1,0 +1,1 @@
+`export OAI_CONFIG_LIST=$(cat OAI_CONFIG_LIST)`
