@@ -31,3 +31,7 @@ OAI_CONFIG_LIST
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Autogen
+groupchat
+.cache
