@@ -28,3 +28,6 @@ Thumbs.db
 # OpenAI Config
 OAI_CONFIG_LIST
 .env
+
+# Jupyter Notebook
+.ipynb_checkpoints
